@@ -1,2 +1,2 @@
 # Quiz_DEMO_3_MATT
-This is MATTS quiz DEMO, treat it well :)
+This is MATTS main quiz DEMO, treat it well :)
